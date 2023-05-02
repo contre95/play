@@ -1,3 +1,6 @@
 [submodule "aoc"]
 	path = aoc
 	url = git@github.com:contre95/aoc.git
+[submodule "hackerrank"]
+	path = hackerrank
+	url = git@github.com:contre95/hackerrank.git
