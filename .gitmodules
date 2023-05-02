@@ -10,3 +10,6 @@
 [submodule "codeforces"]
 	path = codeforces
 	url = git@github.com:contre95/codeforces.git
+[submodule "rustlings"]
+	path = rustlings
+	url = git@github.com:contre95/rustlings.git
