@@ -7,3 +7,6 @@
 [submodule "protohackers"]
 	path = protohackers
 	url = git@github.com:contre95/protohackers.git
+[submodule "codeforces"]
+	path = codeforces
+	url = git@github.com:contre95/codeforces.git
