@@ -13,3 +13,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:contre95/rustlings.git
+[submodule "uba-algoritmos-ii"]
+	path = uba-algoritmos-ii
+	url = git@github.com:contre95/uba-algoritmos-ii.git
